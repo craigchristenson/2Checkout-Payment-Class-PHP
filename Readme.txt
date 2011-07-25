@@ -1,0 +1,9 @@
+This script is ofcourse GNU, and used at your own risk..and so on..... ;-)
+
+To see an example of this class in action: 
+1. Upload files to your server
+2. Signup for a free 2Checkout demo account at http://www.2checkout.com/va/ (unless you already have an account)
+3. Set your 2Checkout account approved URL (under Account -> Site Management) to the full path of the included response.php file. Example: http://localhost/response.php
+4. Edit tco_payment_test.php in a text editor to specify your account details and uncomment the parameters you wish to pass.
+5. Edit response.php in a text editor to set your account details.
+6. Load tco_payment_test.php in your browser and go through the sale process.
