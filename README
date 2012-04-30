@@ -1,4 +1,4 @@
-This script is ofcourse GNU, and used at your own risk..and so on..... ;-)
+For a discount on 2Checkout’s monthly fees, enter promo code: GIT2CO during signup.
 
 To see an example of this class in action: 
 1. Upload files to your server
@@ -7,3 +7,5 @@ To see an example of this class in action:
 4. Edit tco_payment_test.php in a text editor to specify your account details and uncomment the parameters you wish to pass.
 5. Edit response.php in a text editor to set your account details.
 6. Load tco_payment_test.php in your browser and go through the sale process.
+
+This script is ofcourse GNU, and used at your own risk..and so on..... ;-)
